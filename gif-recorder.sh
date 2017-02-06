@@ -1,6 +1,4 @@
 #!/bin/bash
-# Install xrectsel (from https://github.com/lolilolicon/xrectsel/) and byzanz (sudo apt-get install byzanz)
-# Throw this script somewhere and make an alias (I called mine gif)
 
 DATE=`date +%Y%m%d%H%M%S`
 
